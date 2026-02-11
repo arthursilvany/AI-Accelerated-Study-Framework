@@ -1,6 +1,6 @@
 ![Study Framework](https://img.shields.io/badge/Study-Framework-6B4EFF?style=for-the-badge)
 
-# 🧠 Carreira Cloud Study Framework
+# 🧠 Carreira Cloud Study Framework..
 
 ## Framework de Estudo Carreira Cloud
 
