@@ -109,7 +109,7 @@ Evitar sobrecarga cognitiva por meio de **curadoria intencional**.
 - Copilot para buscar docs oficiais Microsoft
 - Perplexity para buscar feedback de cursos mais populares  
 - NotebookLM para consolidar PDFs links externos
-- Notebook do Copilot Chat para documentos internos/Sharepoint
+- Notebook do Copilot Chat para documentos/Sharepoint/Links Internos com classificação general/confidencial de sua empresa
 - Copilot para comparar abordagens  
 
 **Entregáveis típicos:**
