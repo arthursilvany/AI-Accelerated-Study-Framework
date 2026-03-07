@@ -1,4 +1,4 @@
-# 🧠 AI Accelerated Study Framework — Study Task List (v2 Oficial)
+# 🧠 AI Accelerated Study Framework — Study Task List (v3 Oficial)
 
 ---
 
