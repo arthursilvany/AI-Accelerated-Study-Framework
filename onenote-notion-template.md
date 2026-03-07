@@ -101,7 +101,8 @@ Escrever o objetivo final em 1 frase clara:
 
 - [ ] Copilot para buscar docs oficiais
 - [ ] Perplexity para buscar feedback de cursos mais populares  
-- [ ] NotebookLM para consolidar PDFs  
+- [ ] NotebookLM para consolidar PDFs
+- [ ] Notebook do Copilot Chat para documentos internos/Sharepoint  
 - [ ] ChatGPT para comparar abordagens  
 
 ## 📌 Entregável
@@ -126,8 +127,7 @@ Escrever o objetivo final em 1 frase clara:
 
 - [ ] NotebookLM ou Copilot → resumo estruturado  
 - [ ] NotebookLM → flashcards  
-- [ ] NotebookLM → áudio (podcast) para reforço  
-- [ ] Copilot → explicar como iniciante  
+- [ ] NotebookLM → áudio (podcast), Quiz e Infográfico
 
 ## 📌 Entregável
 
