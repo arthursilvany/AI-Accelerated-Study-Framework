@@ -102,7 +102,7 @@ Escrever o objetivo final em 1 frase clara:
 - [ ] Copilot para buscar docs oficiais
 - [ ] Perplexity para buscar feedback de cursos mais populares  
 - [ ] NotebookLM para consolidar PDFs
-- [ ] Notebook do Copilot Chat para documentos internos/Sharepoint  
+- [ ] Notebook do Copilot Chat para documentos/Sharepoint/Links Internos com classificação general/confidencial de sua empresa
 - [ ] ChatGPT para comparar abordagens  
 
 ## 📌 Entregável
