@@ -1,4 +1,4 @@
-# 🧠 Carreira Cloud Study Framework — Study Task List (v2 Oficial)
+# 🧠 AI Accelerated Study Framework — Study Task List (v2 Oficial)
 
 ---
 
@@ -72,8 +72,7 @@ Escrever o objetivo final em 1 frase clara:
 
 ## 🤖 IA (Estratégico)
 
-- [ ] Usar Copilot para refinar clareza  
-- [ ] Usar ChatGPT para desafiar objetivo (“isso gera valor real?”)  
+- [ ] Usar Copilot para refinar clareza e para desafiar objetivo (“isso gera valor real?”)  
 
 ## 📌 Entregável
 
@@ -81,7 +80,7 @@ Escrever o objetivo final em 1 frase clara:
 
 ---
 
-# 2️⃣ Recursos (Curadoria Inteligente)
+# 2️⃣ Pesquisa(Research) (Curadoria Inteligente)
 
 > Regra: Menos é mais.
 
@@ -100,7 +99,8 @@ Escrever o objetivo final em 1 frase clara:
 
 ## 🤖 IA
 
-- [ ] Copilot para buscar docs oficiais  
+- [ ] Copilot para buscar docs oficiais
+- [ ] Perplexity para buscar feedback de cursos mais populares  
 - [ ] NotebookLM para consolidar PDFs  
 - [ ] ChatGPT para comparar abordagens  
 
@@ -124,10 +124,10 @@ Escrever o objetivo final em 1 frase clara:
 
 ## 🤖 IA (Obrigatório)
 
-- [ ] NotebookLM → resumo estruturado  
+- [ ] NotebookLM ou Copilot → resumo estruturado  
 - [ ] NotebookLM → flashcards  
-- [ ] NotebookLM → áudio para reforço  
-- [ ] ChatGPT → explicar como iniciante  
+- [ ] NotebookLM → áudio (podcast) para reforço  
+- [ ] Copilot → explicar como iniciante  
 
 ## 📌 Entregável
 
@@ -179,7 +179,7 @@ Escrever o objetivo final em 1 frase clara:
 ## 🤖 IA
 
 - [ ] Copilot para gerar quiz  
-- [ ] ChatGPT para explicar falhas  
+- [ ] Copilot como Mentor
 - [ ] NotebookLM para reforço  
 
 ## 📌 Entregável
@@ -205,7 +205,7 @@ Escrever o objetivo final em 1 frase clara:
 ## 🤖 IA
 
 - [ ] Copilot VS Code para código  
-- [ ] ChatGPT para revisão técnica  
+- [ ] Copilot para revisão técnica  
 - [ ] Copilot Word para documentação  
 
 ## 📌 Entregável
@@ -220,7 +220,7 @@ Escrever o objetivo final em 1 frase clara:
 
 Preencher diariamente no:
 
-**Carreira_Cloud_Study_Scoreboard_Template.xlsx**
+**Study_Scoreboard_Template.xlsx**
 
 Registrar:
 
@@ -280,6 +280,6 @@ Meta semanal:
 
 ---
 
-> 🧠 Regra final do Carreira Cloud Study Framework (v2):  
+> 🧠 Regra final do AI Accelerated Study Framework (v3):  
 > Se não houve implementação, medição e consolidação cognitiva,  
 > o estudo ainda não terminou.
