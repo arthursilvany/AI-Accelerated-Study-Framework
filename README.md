@@ -293,7 +293,7 @@ Sequência:
 > Total: **100 minutos de estudo profundo**, intercalados com descanso cognitivo estratégico.
 
 > 📊 Preencher o scoreboard:  
-> [Carreira_Cloud_Study_Scoreboard_Template.xlsx](Carreira_Cloud_Study_Scoreboard_Template.xlsx)  
+> [Study_Scoreboard_Template.xlsx](Study_Scoreboard_Template.xlsx)  
 
 > 🔎 **Por que isso é importante?**  
 > O scoreboard transforma estudo em dado: permite medir consistência, identificar gargalos, evitar autoengano (“achei que estudei”) e acompanhar evolução real ao longo do tempo.
