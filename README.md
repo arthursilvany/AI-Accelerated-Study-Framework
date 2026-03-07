@@ -1,10 +1,10 @@
 ![Study Framework](https://img.shields.io/badge/Study-Framework-6B4EFF?style=for-the-badge)
 
-# 🧠 Arthur Silvany Study Framework
+# 🧠 AI Accelerated Study Framework
 
-## Framework de Estudo Arthur Silvany
+## Framework de Estudo AI Accelerated
 
-O **Framework de Estudo Arthur Silvany** é um **framework autoral de aprendizado técnico**, criado para ajudar profissionais de tecnologia a aprender qualquer tema de forma **estruturada, prática e acelerada**, com foco em **aplicação real** e geração de **artefatos reutilizáveis**.
+O **Framework de Estudo AI Accelerated** é um **framework autoral de aprendizado técnico**, criado para ajudar profissionais de tecnologia a aprender qualquer tema de forma **estruturada, prática e acelerada**, com foco em **aplicação real** e geração de **artefatos reutilizáveis**.
 
 Ele foi desenhado especialmente para contextos de **cloud e inteligência artificial**, onde aprender rápido, com profundidade e com entrega prática é essencial.
 
@@ -49,7 +49,7 @@ Ajudar profissionais técnicos a:
 
 ## 🧩 O Framework de Estudo (5 Etapas)
 
-O Framework de Estudo Arthur Silvany é composto por **5 etapas sequenciais e obrigatórias**.  
+O Framework de Estudo AI Accelerated é composto por **5 etapas sequenciais e obrigatórias**.  
 Cada etapa tem um **papel cognitivo claro** e um **resultado esperado**.
 
 ---
@@ -215,7 +215,7 @@ Estudar cansado, com baixa energia cognitiva, gera:
 - falsa sensação de progresso
 - maior esquecimento no dia seguinte
 
-No **Framework de Estudo Arthur Silvany**, a prioridade é estudar no **pico de energia**, porque:
+No **Framework de Estudo AI Accelerated**, a prioridade é estudar no **pico de energia**, porque:
 
 > 🧠 **1 hora de estudo com alta energia cognitiva equivale a 3 horas de estudo cansado.**
 
@@ -239,7 +239,7 @@ Exemplos comuns de pico de energia:
 O Pomodoro potencializa o estudo **somente quando aplicado em horários de alta energia**.  
 Sem energia, nenhuma técnica compensa.
 
-Durante a execução do **Framework de Estudo Arthur Silvany**, recomenda-se utilizar a **técnica de Pomodoro** como estratégia padrão de estudo focado e retenção de longo prazo.
+Durante a execução do **Framework de Estudo AI Accelerated**, recomenda-se utilizar a **técnica de Pomodoro** como estratégia padrão de estudo focado e retenção de longo prazo.
 
 ### 🍅 Estrutura recomendada
 
@@ -308,7 +308,7 @@ Essa abordagem é amplamente difundida no curso **Learning How to Learn** (Barba
 
 ---
 
-### 📌 Como isso se conecta ao Framework de Estudo Arthur Silvany
+### 📌 Como isso se conecta ao Framework de Estudo AI Accelerated
 
 - **Pomodoros (25 min)** → usados nas etapas de  
   - Priming  
@@ -337,4 +337,4 @@ Este framework pode ser utilizado para:
 Desde que seja mantida:
 
 - A estrutura das **5 etapas**
-- A atribuição ao **Framework de Estudo Arthur Silvany**
+- A atribuição ao **Framework de Estudo AI Accelerated**
