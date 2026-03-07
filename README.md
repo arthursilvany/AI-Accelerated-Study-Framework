@@ -70,6 +70,15 @@ Criar clareza absoluta sobre **o que será aprendido**, **por quê** e **qual se
 - “Entender Azure Advisor” ❌  
 - “Criar um checklist de análise de recomendações de custo do Azure Advisor para clientes enterprise” ✅
 
+## 🤖 IA (Estratégico)
+
+- Usar Copilot para refinar clareza e para desafiar objetivo (“isso gera valor real?”)  
+
+## 📌 Entregável
+
+- [ ] Objetivo documentado  
+
+
 **Entregáveis típicos:**
 
 - Objetivo escrito
@@ -94,6 +103,14 @@ Evitar sobrecarga cognitiva por meio de **curadoria intencional**.
 - Microsoft Learn
 - Documentação oficial
 - Um vídeo de visão geral bem escolhido
+
+## 🤖 IA
+
+- Copilot para buscar docs oficiais Microsoft
+- Perplexity para buscar feedback de cursos mais populares  
+- NotebookLM para consolidar PDFs links externos
+- Notebook do Copilot Chat para documentos internos/Sharepoint
+- Copilot para comparar abordagens  
 
 **Entregáveis típicos:**
 
@@ -126,6 +143,13 @@ Flashcards são ideais para:
 - Comparações simples
 
 Eles **não substituem o estudo**, mas aceleram a ativação cognitiva.
+
+## 🤖 IA (Obrigatório)
+
+- NotebookLM ou Copilot → resumo estruturado  
+- NotebookLM → flashcards  
+- NotebookLM → áudio (podcast), Quiz e Infográfico
+
 
 **Entregáveis típicos:**
 
@@ -160,6 +184,13 @@ Transformar informação em **entendimento profundo**, evitando aprendizado supe
 - Usados aqui para **consolidação**
 - Revisão espaçada após quizzes e erros
 
+## 🤖 IA
+
+- Notebooklm ou Copilot para gerar quiz e infográfico
+- Copilot audio como Mentor
+- NotebookLM para reforço  
+
+
 **Entregáveis típicos:**
 
 - Quiz
@@ -183,6 +214,12 @@ Consolidar o aprendizado por meio de **execução real**.
 - Documentar decisões técnicas
 - Criar um guia em Markdown
 - Simular um cenário de cliente
+
+## 🤖 IA
+
+- Copilot VS Code para código  
+- Copilot para revisão técnica
+- Copilot Word para documentação markdown para seu repositório
 
 **Entregáveis típicos:**
 
