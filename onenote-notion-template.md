@@ -206,7 +206,8 @@ Escrever o objetivo final em 1 frase clara:
 
 - [ ] Copilot VS Code para código  
 - [ ] Copilot para revisão técnica  
-- [ ] Copilot Word para documentação  
+- [ ] Copilot Word para documentação repositório
+- [ ]  Copilot Word para documentação artigo Linkedin
 
 ## 📌 Entregável
 
