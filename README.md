@@ -220,6 +220,7 @@ Consolidar o aprendizado por meio de **execução real**.
 - Copilot VS Code para código  
 - Copilot para revisão técnica
 - Copilot Word para documentação markdown para seu repositório
+- Copilot Word para artigo no Linkedin
 
 **Entregáveis típicos:**
 
