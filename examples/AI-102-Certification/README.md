@@ -15,7 +15,7 @@ https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-engineer/?
 - 📊 **Scoreboard obrigatório**: registrar cada sessão de estudo.
 
 📊 Scoreboard:  
-[Carreira_Cloud_Study_Scoreboard_Template.xlsx](Carreira_Cloud_Study_Scoreboard_Template.xlsx)
+[Study_Scoreboard_Template.xlsx](Study_Scoreboard_Template.xlsx)
 
 ---
 
