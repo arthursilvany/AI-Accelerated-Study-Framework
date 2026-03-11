@@ -1,6 +1,12 @@
 # 🚀 AI-102 — Plano de Estudo (Microsoft Learn)  
 ## AI Accelerated Study Framework: 5 Etapas por Learning Path
 
+### 🌐 Suporte Multi-Idioma
+
+#### Disponível neste repositório
+
+[English](../../translations/en/examples/AI-102-Certification/README.md) | [Português (Brasil)](./README.md)
+
 Página oficial da certificação:  
 https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-engineer/?practice-assessment-type=certification
 
@@ -15,7 +21,7 @@ https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-engineer/?
 - 📊 **Scoreboard obrigatório**: registrar cada sessão de estudo.
 
 📊 Scoreboard:  
-[Study_Scoreboard_Template.xlsx](Study_Scoreboard_Template.xlsx)
+[Study_Scoreboard_Template.xlsx](../../Study_Scoreboard_Template.xlsx)
 
 ---
 

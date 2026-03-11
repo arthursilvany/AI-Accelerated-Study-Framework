@@ -4,6 +4,16 @@
 
 ## Framework de Estudo AI Accelerated
 
+### 🌐 Suporte Multi-Idioma
+
+#### Disponível neste repositório
+
+[English](./translations/en/README.md) | [Português (Brasil)](./README.md)
+
+> Para adicionar novos idiomas no futuro, replique a mesma estrutura em `translations/<codigo-do-idioma>/`.
+>
+> Para cada novo arquivo Markdown em português criado fora de `translations/`, crie o espelho correspondente em `translations/en/` e mantenha o seletor de idioma no topo. O workflow [validate-translations.yml](.github/workflows/validate-translations.yml) valida esse padrão automaticamente.
+
 O **Framework de Estudo AI Accelerated** é um **framework autoral de aprendizado técnico**, criado para ajudar profissionais de tecnologia a aprender qualquer tema de forma **estruturada, prática e acelerada**, com foco em **aplicação real** e geração de **artefatos reutilizáveis**.
 
 Ele foi desenhado especialmente para contextos de **cloud e inteligência artificial**, onde aprender rápido, com profundidade e com entrega prática é essencial.

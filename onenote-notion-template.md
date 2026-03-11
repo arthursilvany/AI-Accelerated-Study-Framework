@@ -1,5 +1,11 @@
 # 🧠 AI Accelerated Study Framework — Study Task List (v3 Oficial)
 
+### 🌐 Suporte Multi-Idioma
+
+#### Disponível neste repositório
+
+[English](./translations/en/onenote-notion-template.md) | [Português (Brasil)](./onenote-notion-template.md)
+
 ---
 
 ## 📌 Tema do Estudo
