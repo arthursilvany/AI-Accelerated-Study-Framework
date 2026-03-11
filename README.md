@@ -2,6 +2,10 @@
 
 # 🧠 AI Accelerated Study Framework
 
+[![GitHub watchers](https://img.shields.io/github/watchers/arthursilvany/AI-Accelerated-Study-Framework.svg?style=social&label=Watch)](https://github.com/arthursilvany/AI-Accelerated-Study-Framework/watchers)
+[![GitHub forks](https://img.shields.io/github/forks/arthursilvany/AI-Accelerated-Study-Framework.svg?style=social&label=Fork)](https://github.com/arthursilvany/AI-Accelerated-Study-Framework/network/members)
+[![GitHub stars](https://img.shields.io/github/stars/arthursilvany/AI-Accelerated-Study-Framework.svg?style=social&label=Star)](https://github.com/arthursilvany/AI-Accelerated-Study-Framework/stargazers)
+
 ## Framework de Estudo AI Accelerated
 
 ### 🌐 Suporte Multi-Idioma
